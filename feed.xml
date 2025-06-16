@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Meu Podcast</title>
+  <link>https://seuusuario.github.io/meu-podcast</link>
+  <description>Podcast de exemplo com Git</description>
+  <language>pt-BR</language>
+  <item>
+    <title>Episódio 1 - Bem-vindo</title>
+    <enclosure url="https://example.com/ep01.mp3" length="12345678" type="audio/mpeg"/>
+    <pubDate>Mon, 10 Jun 2025 07:00:00 GMT</pubDate>
+    <guid>https://example.com/ep01.mp3</guid>
+  </item>
+</channel>
+</rss>
